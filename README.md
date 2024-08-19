@@ -6,6 +6,9 @@
 
 ## ESJ_Scraper
 
+Colab分享链接:
+> https://colab.research.google.com/drive/1TkfZyeMZjq-uGVl7NKlBKJELAH_45vZ0?usp=sharing
+
 最后更新：2024/8/19
 
 功能：根据关键词对ESJ轻小说进行下载
